@@ -11,6 +11,3 @@ struct CharactersModel {
     var characters: [Character] = []
 }
 
-struct CharacterModel {
-    var character: Character?
-}

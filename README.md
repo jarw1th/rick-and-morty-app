@@ -26,7 +26,7 @@ This iOS application allows users to explore characters from the popular animate
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/rick-and-morty.git
+   git clone https://github.com/jarw1th/rick-and-morty-app.git
 2. Open the project in Xcode:
 
  - Navigate to the project directory and open rick-and-morty.xcodeproj.
